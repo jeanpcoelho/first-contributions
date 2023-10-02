@@ -645,6 +645,7 @@ Sino Felicity Zwane
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
 - [Abhishek Amber][https://github.com/amberabhi]
+  [jean pereira][https://github.com/jeanpcoelho]
 - [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
 - [ELena Guo](https://github.com/ElenaGuo404)
 - [Nandhu Sathish] (https://github.com/NandhuSathish)
